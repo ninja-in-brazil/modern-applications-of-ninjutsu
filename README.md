@@ -10,7 +10,7 @@ You will find actionable playbooks for scoping your personal goals, maintaining 
 
 This is a book for engineers who want less theoretical abstraction and more agency in their careers and lives. Train across domains. Favor sustainable deployment over crunch-time intensity. Build the kind of internal resilience that survives chaos engineering.
 
-Available now on Amazon: [Modern Applications of Ninjutsu](https://www.amazon.com/Modern-Applications-Ninjitsu-Eduardovich-Medovyy/dp/B0H6C38FH4?ref_=ast_author_dp_rw&th=1&psc=1&dib=eyJ2IjoiMSJ9.t2gp9xi5StBFeDbvK_knOwGzhhApLma_jbmpGjkHxajGjHj071QN20LucGBJIEps.h7hCmpi2CvdAdOCfe4Y6ZosydOuajyEB-tZwDZ-ToBQ&dib_tag=AUTHOR).
+Available now on Amazon: [Modern Applications of Ninjutsu](https://www.amazon.com/dp/B0HNF1T788).
 
 ## Preview Chapters
 
